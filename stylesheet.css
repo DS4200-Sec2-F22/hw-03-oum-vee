@@ -1,4 +1,3 @@
-
 *{
     font-family: Arial;
 }
@@ -13,4 +12,10 @@ h1{
 
 .column{
     flex: 50%;
+}
+.gen1{
+    margin-bottom: 10em;
+}
+.gen2{
+    margin-top:10em ;
 }
