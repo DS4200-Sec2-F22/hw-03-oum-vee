@@ -1,7 +1,7 @@
 # hw-03
 hw-03 - Interactive Webpage
 
-Link to GitHub Pages: `[insert your clickable hyperlink here]`
+Link to GitHub Pages: https://ds4200-sec2-f22.github.io/hw-03-oum-vee/
 
 Clone this repo and work locally. Be sure to push the final version of your code (and any significant updates along the way) before submitting. 
 
